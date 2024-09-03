@@ -22,7 +22,7 @@ I'm a backend developer and linux lover <br>Ask me about Go & Linux
  <code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
- <code><img width="30" src="https://github.commarwin1991profiletechnologyiconsassets/76662862/2481dc48be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+ <code><img width="30" src="[https://github.commarwin1991profiletechnologyiconsassets/76662862/2481dc48be6b-4ebb-9e8c-3b957efe69fa](https://github-production-user-asset-6210df.s3.amazonaws.com/76662862/283240699-2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240903T202523Z&X-Amz-Expires=300&X-Amz-Signature=9c1541d01be90625644a60152b3dbd17c93e449a91ce5a0167d3069ea1ef8897&X-Amz-SignedHeaders=host&actor_id=111126265&key_id=0&repo_id=364793759)" alt="Linux" title="Linux"/></code>
 </div>
 
 # 📊 GitHub Stats:
